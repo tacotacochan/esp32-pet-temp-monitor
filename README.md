@@ -27,7 +27,7 @@ The whole device is controlled with an IR remote, including Wi-Fi setup and text
   - Configure Discord webhook ID and token
   - Send a test message to the webhook
 
-> ⚠️ This is a hobby project, not a medical or safety device.  
+> This is a hobby project, not a medical or safety device.  
 > Temperature ranges are simple comfort guidelines and should not replace proper care or professional advice.
 
 ## Hardware
